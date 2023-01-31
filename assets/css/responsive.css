@@ -1,0 +1,20 @@
+@media(max-width: 600px){
+    .cont {
+        
+        padding: 3px 23px !important;
+       
+    }
+
+    .service-card .img {
+        display: block !important;
+    }
+
+
+
+
+
+
+
+
+
+}
